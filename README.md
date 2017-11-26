@@ -22,6 +22,8 @@ A curated list of resources for Makers
 - [IoTMakers Forum](forum.iotmakers.com.br)
 - [AI](https://discuss.api.ai)
 
+# Community 
+* [OSH Park -Upload your design](https://oshpark.com)
 
 # Data log
 31/10/2017 - Start listing
