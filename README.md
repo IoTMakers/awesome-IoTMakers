@@ -24,6 +24,8 @@ A curated list of resources for Makers
 
 # Community 
 * [OSH Park -Upload your design](https://oshpark.com)
+* [IoT learn Community](http://learn.iotcommunity.io)
+* []()
 
 # Data log
 31/10/2017 - Start listing
