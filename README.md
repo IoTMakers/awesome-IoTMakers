@@ -25,7 +25,7 @@ A curated list of resources for Makers
 * [Fiozera](https://forum.fiozera.com.br)
 * [Fazedores](http://forum.fazedores.com)
 
-# Community 
+# Forum 
 * [OSH Park -Upload your design](https://oshpark.com)
 * [IoT learn Community](http://learn.iotcommunity.io)
 * [Learn IoTCommunity](http://learn.iotcommunity.io)
@@ -46,3 +46,4 @@ A curated list of resources for Makers
 # Data log
 31/10/2017 - Start listing
 12/11/2017 - update list
+09/12/2017 - Update liste forum
