@@ -45,8 +45,11 @@ A curated list of resources for Makers
 * [Hackaday](http://forums.hackaday.com)
 * [96Boards](https://discuss.96boards.org)
 
+# Github
+- [Dojo sobre IoT](https://github.com/tiagospies/dojoiot)
+
 * []()
 # Data log
-31/10/2017 - Start listing
-12/11/2017 - update list
-09/12/2017 - Update liste forum
+- 31/10/2017 - Start listing
+- 12/11/2017 - update list
+- 09/12/2017 - Update liste forum
