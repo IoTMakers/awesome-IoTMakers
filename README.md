@@ -5,6 +5,8 @@ A curated list of resources for Makers
 # Plataform IoT
 - [DOJOT](http://www.dojot.com.br)
 - [IFTTT](https://ifttt.com)
+- [FIWARE](https://www.fiware.org)
+
 
 # Makers 
 - [AI](https://api.ai)
