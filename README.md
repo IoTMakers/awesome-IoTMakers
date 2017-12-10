@@ -41,6 +41,7 @@ A curated list of resources for Makers
 * [Mediatek](https://en.forum.labs.mediatek.com)
 * [Tessel](https://tessel.io/community)
 * [Hackaday](http://forums.hackaday.com)
+* [96Boards](https://discuss.96boards.org)
 
 * []()
 # Data log
