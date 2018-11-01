@@ -49,3 +49,5 @@ A curated list of resources for Makers
 * [96Boards](https://discuss.96boards.org)
 
 # Tools and Site.
+* [Eletronics Basics](https://www.rohm.com/electronics-basics)
+
