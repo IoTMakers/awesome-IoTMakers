@@ -11,6 +11,8 @@ A curated list of resources for Makers
 - [IFTTT](https://ifttt.com)
 - [FIWARE](https://www.fiware.org)
 
+# Official Documents Brazil
+- [Decreto N 9854](http://www.in.gov.br/en/web/dou/-/decreto-n-9.854-de-25-de-junho-de-2019-173021041)
 
 # Hardwares
 - [Franzininho](https://franzininho.com.br/)
@@ -21,7 +23,7 @@ A curated list of resources for Makers
 * [Fiozera](https://forum.fiozera.com.br)
 * [Fazedores](http://forum.fazedores.com)
 * [Imasters](https://forum.imasters.com.br/)
- 
+
 # Forum 
 * [OSH Park -Upload your design](https://oshpark.com)
 * [GOSH Community Forum](https://forum.openhardware.science/)
